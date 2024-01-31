@@ -1,0 +1,4 @@
+[27-May-2023 15:58:14 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/hilalara/bot.hilalarabic.uz/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hilalara/bot.hilalarabic.uz/bootstrap/app.php on line 14

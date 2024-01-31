@@ -1,0 +1,39 @@
+.trix-button-group--block-tools,
+.trix-button-group--file-tools {
+    display: none!important;
+}
+
+.my-table {
+    border: 1px solid #e5e7eb;
+}
+.my-table thead tr th {
+    border-left: 1px solid #e5e7eb;
+    padding: 7px 12px;
+    color: #444;
+    background: hsla(220,9%,46%,.05);
+}
+.my-table thead tr th:first-child {
+    border: 0;
+}
+.my-table tbody tr td {
+    border-left: 1px solid #e5e7eb;
+    padding: 7px 12px;
+    color: #444;
+    display: flex;
+    align-items: center;
+}
+.my-table tbody tr td a:hover {
+    text-decoration: underline;
+}
+.my-table tbody tr td:first-child {
+    border: 0;
+}
+
+.draggable-mirror {
+    background: #fff;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.fa-arrows-up-down-left-right:hover {
+    color: #222!important;
+}
